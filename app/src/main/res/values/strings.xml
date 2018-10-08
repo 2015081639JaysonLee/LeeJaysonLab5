@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LeeJaysonLab5</string>
+    <string name="Ateneo">Ateneo de Manila University</string>
+    <string name="Ust">University of Santo Tomas</string>
+    <string name="loc">Location:</string>
+    <string name="distance">Distance:</string>
+    <string name="act2back">Activity 2</string>
+    <string name="act1back">Activity 1</string>
+    <string name="map">Map</string>
+    <string name="address">Katipunan Ave, Quezon City, 1108 Metro Manila</string>
+    <string name="address2">España Blvd, Sampaloc, Manila, 1008 Metro Manila</string>
+    <string name="distanceValue">14.6 Km</string>
+    <string name="distanceValue2">0 Km (Starting Point)</string>
+    <string name="imgDesc">Pic of Ateneo\'s Church</string>
+    <string name="imgDesc2">Field pic of UST Main Building</string>
+</resources>
